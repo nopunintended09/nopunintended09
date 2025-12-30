@@ -1,18 +1,22 @@
-Hiiiii
-Im a 17 year old *human being*
-Ive got mediocre skills in python, typescript and rust which I would like to build upon in the future. I am also interested in data vis using niche ML tools and got some google colab projects aswell.
+Heyyy ppll
+Im a 17 year old ahem *human being*....
+ 
+I've got some pretty mediocre skills jn Python, Typescript and Rust. Also into unconventional stuff like data vis using niche ML tools. Although I dont actively code nowadays for a few reasons, I would like to build upon more things in the future....
 
-Apart from just coding, I was also a professional badminton player from u11 to u17 and trained hard for years. 
+Apart from just coding, I was a professional badminton player from u11 to u17 and trained hard consistently for many years particularly in GS and GD....
 
-I consider myself a bookworm and like to read everything and anything. I like *existential* novels by Kafka and a few other novelists, and like to read science fiction. I also like to play acoustic guitar allot. 
+I also consider myself a bookworm, I like reading anything and everything, particularly *existential* novels by Kafka and a few other novelists Ive always looked up to, and science fiction aswell...
 
-I love watching sports, particularly badminton and rifle shooting..and some other sports. 
+I watch sports very keenly and obsessively, particularly badminton and rifle shooting. I enjoy watching other sports aswell.. and love playing acoustic guitar aswell..
 
-I am also very keen to learn cinematography and liminal art in the future
+I am very interesting in learning liminal cinematography in the future....
 
-Also im the biggest swiftie you'd prolly ever meet :D 
+*Last but not the least...* ... Im the biggest swiftie and foodie you'd ever meet :D 
 
 
+Byee ppl... 
+
+ 
 
 
 ~some gcolab shit -
