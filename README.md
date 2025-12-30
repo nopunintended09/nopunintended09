@@ -4,7 +4,7 @@
 
 Heyyy ppll Im a 17 year old ahem human being....
 
-I've got some pretty mediocre skills jn **Python**, **Typescript**, and **Rust**. Also into unconventional stuff like **data vis using niche ML tools** like **Logistic Regression, Naive Bayes, Decision Trees** and libraries such as **Matplotlib, NumPy, Pandas, AstroPy, Seaborn, Scikit-learn, PyTorch, TensorFlow, Plotly**. Although I dont actively code nowadays for a few reasons, I would like to build upon more skills in the future....
+I've got some pretty mediocre skills in **Python**, **Typescript**, **Javascript**,**HTML**,**Java** and  **Rust**. Also into unconventional stuff like **data vis using niche ML tools** like **Logistic Regression, Naive Bayes, Decision Trees** and libraries such as **Matplotlib, NumPy, Pandas, AstroPy, Seaborn, Scikit-learn, PyTorch, TensorFlow, Plotly**. Although I dont actively code nowadays for a few reasons, I would like to build upon more skills in the future....
 
 Apart from just coding, I was a professional **badminton player from u11 to u17** and trained hard consistently for many years particularly in **GS and GD**....
 
@@ -51,7 +51,7 @@ Last but not the least... ... Im the biggest **swiftie** and **foodie** you'd ev
 
 ---
 
-### 🧰 Google Colab Projects
+### 🧰A few Google Colab Projects
 - [Project 1](https://colab.research.google.com/drive/13UNdPK9ld-wR1kOTCdZjYURJN_ePwNrt?usp=sharing)  
 - [Project 2](https://colab.research.google.com/drive/1-xZPqX2OEUJVIaGlSVDibvriLicd9fwz?usp=sharing)  
 - [Project 3](https://colab.research.google.com/drive/1zDtWZA7UPFClugnxxgIQYBR-ore9Nek6?usp=sharing)  
