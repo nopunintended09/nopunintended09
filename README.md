@@ -60,8 +60,12 @@ Last but not the least... ... Im the biggest **swiftie** and **foodie** you'd ev
 ---
 
 ### 📊 GitHub Stats
-<!-- GitHub Activity Graph -->
-![Sahasra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nopunintended09&theme=react-dark&area=true)
+![GitHub Followers](https://img.shields.io/github/followers/nopunintended09?style=social)
+![GitHub Repositories](https://img.shields.io/github/repos/nopunintended09?style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/nopunintended09?style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/nopunintended09?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/nopunintended09?style=flat)
 
----
+## Top Language
+![Top Language](https://img.shields.io/github/languages/top/nopunintended09?style=flat)
   BYEEE
