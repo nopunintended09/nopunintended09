@@ -62,7 +62,7 @@ Last but not the least... ... Im the biggest **swiftie** and **foodie** you'd ev
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nopunintended09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahasra09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopunintended09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
