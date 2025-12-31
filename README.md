@@ -10,7 +10,7 @@ Apart from just coding, I was a professional **badminton player from u11 to u17*
 
 I also consider myself a **bookworm**, I like reading anything and everything, particularly existential novels by Kafka and a few other novelists Ive always looked up to, and science fiction aswell...
 
-I watch sports very keenly and obsessively, particularly **badminton** and **rifle shooting**. I enjoy watching other sports aswell.. and also love playing **acoustic guitar** ..
+I watch sports very keenly and obsessively, particularly **badminton** and **rifle shooting**. I enjoy watching other sports aswell.. , love watching malayalam movies allloottt ( especially Fahidh Fasil and DW's) and also love playing **acoustic guitar** ..
 
 I am very interested in learning **liminal cinematography** in the future....
 
