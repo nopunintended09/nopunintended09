@@ -60,8 +60,8 @@ Last but not the least... ... Im the biggest **swiftie** and **foodie** you'd ev
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nopunintended09&show_icons=true&theme=radical)
-
+<!-- GitHub Activity Graph -->
+![Sahasra's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nopunintended09&theme=react-dark&area=true)
 
 ---
   BYEEE
