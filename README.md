@@ -1,14 +1,3 @@
-<h1 align="center">Heyyy ppll 👋</h1>
-
----
-
-Heyyy ppll Im a 17 year old ahem human being....
-
-I've got some pretty mediocre skills in **Python**, **Typescript**, **Javascript**,**HTML**,**Java** and  **Rust**. Also into unconventional stuff like **data vis using niche ML tools** like **Logistic Regression, Naive Bayes, Decision Trees** and libraries such as **Matplotlib, NumPy, Pandas, AstroPy, Seaborn, Scikit-learn, PyTorch, TensorFlow, Plotly**. Although I dont actively code nowadays for a few reasons, I would like to build upon more skills in the future....
-
-Apart from just coding, I was a professional **badminton player from u11 to u17** and trained hard consistently for many years particularly in **GS and GD**....
-
-I also consider myself a **bookworm**, I like reading anything and everything, particularly existential novels by Kafka and a few other novelists Ive always looked up to, and science fiction aswell...
 
 I watch sports very keenly and obsessively, particularly **badminton** and **rifle shooting**. I enjoy watching other sports aswell.. , love watching malayalam movies allloottt ( especially Fahadh Faasil and DQ's) and also love playing **acoustic guitar** ..
 
